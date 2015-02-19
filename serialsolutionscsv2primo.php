@@ -1,6 +1,6 @@
 <?php
 	/***Bengtson-Fu!!!   13 3 |\| ( ][ 5 () |\| - |= |_|!!! 
-	created by Jason Bengtson, MLIS, MA : Available under MIT open source license****/
+	created by Jason Bengtson, MLIS, MA : ****/
 	/***formats serial solutions csv into google xml for import into Primo***/
 	/***done previously in VBScript by Fredrick Reiss***/
 	
